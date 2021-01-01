@@ -4,7 +4,7 @@
        {
 
               int n1,n2,sum;
-              clrscr();
+//              clrscr();
               
               printf("\nEnter 1st number : "); 
               scanf("%d",&n1);
